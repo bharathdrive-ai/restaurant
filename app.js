@@ -25,7 +25,7 @@ const menuItems = [
     name: "Pongal",
     desc: "Comfort in a bowl — rice and moong dal slow-cooked with ghee, pepper, cumin and ginger.",
     price: "₹70",
-    img: "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=600&q=80",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrGBz4IbTJrklzXWCc_ProKqcjLCYY1XarK1fYUaK-w&s=10",
     tag: "Winter Favourite"
   },
   {

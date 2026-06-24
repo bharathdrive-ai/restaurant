@@ -18,7 +18,7 @@ const menuItems = [
     name: "Rava Upma",
     desc: "Fluffy semolina cooked with mustard, curry leaves, onions, green chillies and topped with cashews.",
     price: "₹55",
-    img: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=600&q=80",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfNa24NktW8LL_L2QyQQbNXnUfakxjb1eMEYJp9ZviXA&s=10",
     tag: "Breakfast"
   },
   {

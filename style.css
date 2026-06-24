@@ -113,12 +113,12 @@ img { display: block; width: 100%; object-fit: cover; }
   align-items: center;
   gap: 10px;
   font-family: 'Playfair Display', serif;
-  font-size: 1.3rem;
+  font-size: 1.9rem;
   color: var(--white);
   transition: var(--transition);
 }
 .navbar.scrolled .logo { color: var(--brown); }
-.logo-icon { font-size: 1.5rem; }
+.logo-icon { font-size: 2rem; }
 .logo em { color: var(--saffron); font-style: italic; }
 
 .nav-links {

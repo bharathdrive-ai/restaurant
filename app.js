@@ -101,7 +101,7 @@ const menuItems = [
   {
     name: "Coffee",
     desc: "Freshly brewed South Indian filter coffee — frothy, aromatic, and the perfect companion to your tiffin.",
-    price: "₹20",
+    price: "₹30",
     emoji: "☕",
     tag: "Beverages"
   }

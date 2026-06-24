@@ -90,6 +90,13 @@ const menuItems = [
     price: "₹55",
     emoji: "🫓",
     tag: "Light Meal"
+  },
+  {
+    name: "Vada Curry",
+    desc: "Crispy lentil vadas dunked in a rich, spiced onion-tomato curry — a Chennai street food classic.",
+    price: "₹45",
+    emoji: "🍲",
+    tag: "Street Special"
   }
 ];
 

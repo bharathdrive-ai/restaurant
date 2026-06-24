@@ -102,7 +102,7 @@ const menuItems = [
     name: "Coffee",
     desc: "Freshly brewed South Indian filter coffee — frothy, aromatic, and the perfect companion to your tiffin.",
     price: "₹30",
-    img: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=600&q=80",
+    img: "https://www.vegrecipesofindia.com/wp-content/uploads/2016/09/filter-coffee-recipe-1.jpg",
     tag: "Beverages"
   }
 ];

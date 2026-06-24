@@ -81,7 +81,7 @@ const menuItems = [
     name: "Poori",
     desc: "Soft, fluffy deep-fried wheat puffs served with spiced potato curry — a timeless breakfast favourite.",
     price: "₹65",
-    img: "https://images.unsplash.com/photo-1626132827177-54b050e0ee4e?w=600&q=80",
+    img: "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/poori-puri-recipe.jpg",
     tag: "Breakfast"
   },
   {

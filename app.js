@@ -97,6 +97,13 @@ const menuItems = [
     price: "₹45",
     emoji: "🍲",
     tag: "Street Special"
+  },
+  {
+    name: "Coffee",
+    desc: "Freshly brewed South Indian filter coffee — frothy, aromatic, and the perfect companion to your tiffin.",
+    price: "₹20",
+    emoji: "☕",
+    tag: "Beverages"
   }
 ];
 

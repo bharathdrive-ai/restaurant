@@ -32,14 +32,14 @@ const menuItems = [
     name: "Medu Vada",
     desc: "Crispy-on-the-outside, fluffy-on-the-inside lentil doughnuts. Best dunked in sambar.",
     price: "₹50",
-    img: "https://images.unsplash.com/photo-1589301761961-ac3a6d5e11a6?w=600&q=80",
+    img: "https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=600&q=80",
     tag: "Snack"
   },
   {
     name: "Uttapam",
     desc: "Thick, soft pancake topped with onions, tomato, coriander and green chillies. Mildly tangy.",
     price: "₹80",
-    img: "https://images.unsplash.com/photo-1626200419199-391ae4be7a41?w=600&q=80",
+    img: "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=600&q=80",
     tag: "Hearty"
   },
   {
@@ -60,35 +60,35 @@ const menuItems = [
     name: "Pesarattu",
     desc: "Andhra-style green moong dal crepe, protein-rich and earthy, paired with ginger chutney.",
     price: "₹75",
-    img: "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=600&q=80",
+    img: "https://images.unsplash.com/photo-1630409351241-e90e7f6b6e23?w=600&q=80",
     tag: "Healthy"
   },
   {
     name: "Appam with Stew",
     desc: "Lacy fermented rice hoppers with a Kerala-style coconut milk vegetable stew — gently fragrant.",
     price: "₹95",
-    img: "https://images.unsplash.com/photo-1601050690117-94f5f7a27f27?w=600&q=80",
+    img: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=600&q=80",
     tag: "Kerala Special"
   },
   {
     name: "Plain Dosa",
     desc: "Classic thin and crispy fermented rice crepe, golden on the outside, served with sambar and coconut chutney.",
     price: "₹40",
-    img: "https://images.unsplash.com/photo-1554497426-075d9460bec8?w=600&q=80",
+    img: "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=600&q=80",
     tag: "Classic"
   },
   {
     name: "Poori",
     desc: "Soft, fluffy deep-fried wheat puffs served with spiced potato curry — a timeless breakfast favourite.",
     price: "₹65",
-    img: "https://images.unsplash.com/photo-1567337710282-00832b415979?w=600&q=80",
+    img: "https://images.unsplash.com/photo-1626132827177-54b050e0ee4e?w=600&q=80",
     tag: "Breakfast"
   },
   {
     name: "Chapathi",
     desc: "Soft whole wheat flatbread served with vegetable kurma or dal — wholesome, light and satisfying.",
     price: "₹55",
-    img: "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?w=600&q=80",
+    img: "https://images.unsplash.com/photo-1574653853027-5382a3d23a15?w=600&q=80",
     tag: "Light Meal"
   },
   {

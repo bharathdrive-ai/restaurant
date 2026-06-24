@@ -4,7 +4,7 @@ const menuItems = [
     name: "Idli Sambar",
     desc: "Soft steamed rice cakes served with piping hot sambar and three chutneys — coconut, tomato & mint.",
     price: "₹60",
-    img: "https://images.unsplash.com/photo-1630383249896-424e482df921?w=600&q=80",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7La-HBYa26--Kr9X16-Yz-PeUpKGAZ_4ALnOr8we5WQ&s=10",
     tag: "Breakfast Special"
   },
   {

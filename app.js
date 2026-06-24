@@ -69,6 +69,27 @@ const menuItems = [
     price: "₹95",
     emoji: "🫕",
     tag: "Kerala Special"
+  },
+  {
+    name: "Plain Dosa",
+    desc: "Classic thin and crispy fermented rice crepe, golden on the outside, served with sambar and coconut chutney.",
+    price: "₹70",
+    emoji: "🫓",
+    tag: "Classic"
+  },
+  {
+    name: "Poori",
+    desc: "Soft, fluffy deep-fried wheat puffs served with spiced potato curry — a timeless breakfast favourite.",
+    price: "₹65",
+    emoji: "🫔",
+    tag: "Breakfast"
+  },
+  {
+    name: "Chapathi",
+    desc: "Soft whole wheat flatbread served with vegetable kurma or dal — wholesome, light and satisfying.",
+    price: "₹55",
+    emoji: "🫓",
+    tag: "Light Meal"
   }
 ];
 

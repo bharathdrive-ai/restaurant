@@ -39,7 +39,7 @@ const menuItems = [
     name: "Uttapam",
     desc: "Thick, soft pancake topped with onions, tomato, coriander and green chillies. Mildly tangy.",
     price: "₹80",
-    img: "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=600&q=80",
+    img: "https://static.toiimg.com/thumb/54408101.cms?imgsize=156264&width=800&height=800",
     tag: "Hearty"
   },
   {

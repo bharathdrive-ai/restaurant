@@ -60,7 +60,7 @@ const menuItems = [
     name: "Pesarattu",
     desc: "Andhra-style green moong dal crepe, protein-rich and earthy, paired with ginger chutney.",
     price: "₹75",
-    img: "https://images.unsplash.com/photo-1630409351241-e90e7f6b6e23?w=600&q=80",
+    img: "https://cdn1.foodviva.com/static-content/food-images/andhra-recipes/pesarattu/pesarattu.jpg",
     tag: "Healthy"
   },
   {

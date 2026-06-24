@@ -53,7 +53,7 @@ const menuItems = [
     name: "Rava Dosa",
     desc: "Thin, crispy, lace-like semolina crepe with onions, green chillies and black pepper.",
     price: "₹85",
-    img: "https://images.unsplash.com/photo-1559847844-5315695dadae?w=600&q=80",
+    img: "https://moonrice.net/wp-content/uploads/2021/05/IMG_0938-2.jpg",
     tag: "Crispy"
   },
   {

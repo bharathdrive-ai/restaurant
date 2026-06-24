@@ -95,7 +95,7 @@ const menuItems = [
     name: "Vada Curry",
     desc: "Crispy lentil vadas dunked in a rich, spiced onion-tomato curry — a Chennai street food classic.",
     price: "₹45",
-    img: "https://images.unsplash.com/photo-1548943487-a2e4e43b4853?w=600&q=80",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToBueQHdK5SY44L2nAFQjJz691GhbfTnNYoHrVrMQk3Q&s=10",
     tag: "Street Special"
   },
   {

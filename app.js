@@ -46,7 +46,7 @@ const menuItems = [
     name: "Poha",
     desc: "Flattened rice tossed with turmeric, onion, lemon and fresh coriander. Light yet satisfying.",
     price: "₹45",
-    img: "https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=600&q=80",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-2tnLTL45kFNFD-1dCE7l9RfWf-kf2M8MrD5MbHV9kw&s=10",
     tag: "Light Bite"
   },
   {

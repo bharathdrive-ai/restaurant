@@ -32,7 +32,7 @@ const menuItems = [
     name: "Medu Vada",
     desc: "Crispy-on-the-outside, fluffy-on-the-inside lentil doughnuts. Best dunked in sambar.",
     price: "₹50",
-    img: "https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=600&q=80",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oBFg7AN8Y8evYHjnGXp98l2307r9TES8SSSZtVzHLQ&s=10",
     tag: "Snack"
   },
   {

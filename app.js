@@ -74,7 +74,7 @@ const menuItems = [
     name: "Plain Dosa",
     desc: "Classic thin and crispy fermented rice crepe, golden on the outside, served with sambar and coconut chutney.",
     price: "₹40",
-    img: "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=600&q=80",
+    img: "https://www.awesomecuisine.com/wp-content/uploads/2009/06/Plain-Dosa.jpg",
     tag: "Classic"
   },
   {

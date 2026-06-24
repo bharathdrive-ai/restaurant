@@ -88,7 +88,7 @@ const menuItems = [
     name: "Chapathi",
     desc: "Soft whole wheat flatbread served with vegetable kurma or dal — wholesome, light and satisfying.",
     price: "₹55",
-    img: "https://images.unsplash.com/photo-1574653853027-5382a3d23a15?w=600&q=80",
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKcrfsC6_I6y6B5c6rAbEVsoOC3sTDTpiTRe8sfz4rVp-tWtZIIuPtRrJB6Q7PbGkwzxY7V8_yM3ClztC9OlbwUKGM5Lmeb024Vp0BbWVrSpNY3BTS9xxBR-XB_lelqTdhWQ4rLhXaSi0/s1600/hotel+vegkurma.jpg",
     tag: "Light Meal"
   },
   {

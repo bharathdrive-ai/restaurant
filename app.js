@@ -67,7 +67,7 @@ const menuItems = [
     name: "Appam with Stew",
     desc: "Lacy fermented rice hoppers with a Kerala-style coconut milk vegetable stew — gently fragrant.",
     price: "₹95",
-    img: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=600&q=80",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYjfYTWCP-jiItxXRzK6wPuItswBlBYza3pDv2NtlGJQ&s=10",
     tag: "Kerala Special"
   },
   {

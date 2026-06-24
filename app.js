@@ -73,7 +73,7 @@ const menuItems = [
   {
     name: "Plain Dosa",
     desc: "Classic thin and crispy fermented rice crepe, golden on the outside, served with sambar and coconut chutney.",
-    price: "₹70",
+    price: "₹40",
     emoji: "🫓",
     tag: "Classic"
   },
